@@ -1,7 +1,7 @@
 /public
 /node_moduels
 /mock
-/build
+# /build
 /.vscode
 server.conf
 build.js

@@ -6,13 +6,13 @@
 server.conf
 build.js
 BCLOUD
-fis-conf.js
+# fis-conf.js
 /toolkit
 /output
-/build.sh
-/types
+# /build.sh
+# /types
 /__tests__
 /__mocks__
 /coverage
-/publish.sh
+# /publish.sh
 /gh-pages
